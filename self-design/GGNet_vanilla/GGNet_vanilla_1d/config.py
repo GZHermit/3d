@@ -10,7 +10,7 @@ class Config:
 
     # -------------------- data config --------------------#
 
-    root_dir = '/unsullied/sharefs/_research_detection/GeneralDetection/ModelNet40/ModelNet40'
+    root_dir = ''
     save_path = '/home/guozihao/Workspace/Save/Experiment/GGNet_vanilla_1d'
     train_totality = 9840
     eval_totality = 2468

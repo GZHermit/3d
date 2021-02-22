@@ -7,7 +7,7 @@ import os.path as osp
 class Config:
     # -------------------- data config --------------------#
 
-    root_dir = '/unsullied/sharefs/_research_detection/GeneralDetection/ModelNet40/ModelNet40'
+    root_dir = ''
     save_path = '/home/guozihao/Workspace/Save/Experiment/PointNet'
     train_totality = 9843
     eval_totality = 2468

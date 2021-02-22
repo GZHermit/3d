@@ -10,7 +10,7 @@ class Config:
 
     # -------------------- data config --------------------#
 
-    root_dir = '/unsullied/sharefs/_research_detection/GeneralDetection/ModelNet40'
+    root_dir = ''
 
     point_dir = os.path.join(root_dir, 'ModelNet40')
     view_dir = os.path.join(root_dir, 'view')
